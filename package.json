@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "smth": "node 2022/$npm_config_day/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.11"
+  }
+}
